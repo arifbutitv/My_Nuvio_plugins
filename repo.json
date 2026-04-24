@@ -1,9 +1,10 @@
 {
-    "name": "My Cloudstream's Plugins",
-    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/RepoIcon.png",
-    "description": "My Cloudstream's Plugins",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/arifbutitv/My/refs/heads/main/CloudstreamPlugin.json"
-    ]
+  "name": "My Cloudstream's Plugins",
+  "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/RepoIcon.png",
+  "description": "My Cloudstream's Plugins",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/arifbutitv/My/refs/heads/main/CloudstreamPlugin.json",
+    "https://raw.githubusercontent.com/arifbutitv/Nuvio_plugins/refs/heads/main/from_3rabi"
+  ]
 }
