@@ -119,7 +119,7 @@
     "iconUrl": "https://wecima.ac/static/img/favicon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Abodabodd/re-3arabi",
-    "fileSize": 20000,
+    "fileSize": 46200,
     "status": 1,
     "language": "ar",
     "authors": [
@@ -127,11 +127,11 @@
     ],
     "tvTypes": [
     "Movie",
-    "tvTypes"
+    "TvSeries"
     ],
     "version": 1,
-    "internalName": "build/MyCimaProvider",
-    "url": "https://github.com/Abodabodd/re-3arabi/raw/refs/heads/main/build/build/MyCimaProvider.cs3",
-    "name": "build/MyCimaProvider"
+    "internalName": "MyCimaProvider",
+    "url": "https://github.com/Abodabodd/re-3arabi/raw/refs/heads/main/build/MyCimaProvider.cs3",
+    "name": "MyCimaProvider"
   }
  ]
