@@ -4,7 +4,7 @@
   "description": "My Cloudstream's Plugins",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/arifbutitv/My/refs/heads/main/CloudstreamPlugin.json",
-    "https://raw.githubusercontent.com/arifbutitv/Nuvio_plugins/refs/heads/main/from_3rabi"
+    "https://raw.githubusercontent.com/arifbutitv/Nuvio_plugins/heads/main/CloudstreamPlugin.json",
+    "https://raw.githubusercontent.com/arifbutitv/Nuvio_plugins/heads/main/from_3rabi"
   ]
 }
