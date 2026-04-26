@@ -1,16 +1,16 @@
 # قائمة الإضافات (Plugins List)
 
-تجدون أدناه قائمة بالإضافات وروابط الـ Manifest الخاصة بها:
+تجدون أدناه قائمة بالإضافات، روابط الـ Manifest، وصفحات المطورين على GitHub:
 
-| الإضافة (Plugin) | المصدر / المستودع (Source) | رابط الـ JSON / Manifest |
-| :--- | :--- | :--- |
-| **FaselHD** | nvmindl | [رابط الـ Manifest](https://raw.githubusercontent.com/nvmindl/nuvio-providers/refs/heads/main/manifest.json) |
-| **NetMirror** | yoruix | [رابط الـ Manifest](https://raw.githubusercontent.com/yoruix/nuvio-providers/refs/heads/main/manifest.json) |
-| **CinemaCity** | yoruix | [رابط الـ Manifest](https://raw.githubusercontent.com/yoruix/nuvio-providers/refs/heads/main/manifest.json) |
-| **Netmirror** | D3adlyRocket | [رابط الـ Manifest](https://raw.githubusercontent.com/D3adlyRocket/All-in-One-Nuvio/refs/heads/main/manifest.json) |
-| **Kisskh** | D3adlyRocket | [رابط الـ Manifest](https://raw.githubusercontent.com/D3adlyRocket/All-in-One-Nuvio/refs/heads/main/manifest.json) |
-| **MovieBoxProvider** (CloudStream) | phisher98 | [رابط الـ Repo](https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json) |
-| **MovieBoxProvider** (CloudStream) | NivinCNC | [رابط الـ Repo](https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/CNC.json) |
+| الإضافة (Plugin) | المصدر / المطور | رابط الـ JSON / Manifest | صفحة المطور (GitHub) |
+| :--- | :--- | :--- | :--- |
+| **FaselHD** | nvmindl | [رابط الـ Manifest](https://raw.githubusercontent.com/nvmindl/nuvio-providers/refs/heads/main/manifest.json) | [nvmindl](https://github.com/nvmindl/nuvio-providers) |
+| **NetMirror** | yoruix | [رابط الـ Manifest](https://raw.githubusercontent.com/yoruix/nuvio-providers/refs/heads/main/manifest.json) | [yoruix](https://github.com/yoruix/nuvio-providers) |
+| **CinemaCity** | yoruix | [رابط الـ Manifest](https://raw.githubusercontent.com/yoruix/nuvio-providers/refs/heads/main/manifest.json) | [yoruix](https://github.com/yoruix/nuvio-providers) |
+| **Netmirror** | D3adlyRocket | [رابط الـ Manifest](https://raw.githubusercontent.com/D3adlyRocket/All-in-One-Nuvio/refs/heads/main/manifest.json) | [D3adlyRocket](https://github.com/D3adlyRocket/All-in-One-Nuvio) |
+| **Kisskh** | D3adlyRocket | [رابط الـ Manifest](https://raw.githubusercontent.com/D3adlyRocket/All-in-One-Nuvio/refs/heads/main/manifest.json) | [D3adlyRocket](https://github.com/D3adlyRocket/All-in-One-Nuvio) |
+| **MovieBoxProvider** | phisher98 | [رابط الـ Repo](https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json) | [phisher98](https://github.com/phisher98/cloudstream-extensions-phisher) |
+| **MovieBoxProvider** | NivinCNC | [رابط الـ Repo](https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/CNC.json) | [NivinCNC](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension) |
 
 
 
