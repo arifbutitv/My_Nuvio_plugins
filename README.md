@@ -1,8 +1,9 @@
 # قائمة الإضافات (Plugins List)
 
-تجدون أدناه الإضافات مقسمة حسب التطبيق واسم الملف:
+تجدون أدناه الإضافات مقسمة حسب التطبيق واسم الملف مع روابط الوصول المباشرة:
 
 ## 1. إضافات CloudStream
+🔗 **رابط الإضافات العام:** [Cloudstream_plugins.json](https://github.com/arifbutitv/My_Nuvio_plugins/blob/main/Cloudstream_plugins.json)
 
 ### 📄 ملف: `CS_Plugins2.json`
 | الإضافة (Plugin) | المصدر / المطور | رابط الـ Repo | صفحة المطور (GitHub) |
@@ -23,6 +24,7 @@
 ---
 
 ## 2. إضافات Nuvio
+🔗 **رابط الإضافات العام:** [manifest.json](https://github.com/arifbutitv/My_Nuvio_plugins/blob/main/manifest.json)
 
 ### 📄 ملف: `manifest.json`
 | الإضافة (Plugin) | المصدر / المطور | رابط الـ Manifest | صفحة المطور (GitHub) |
