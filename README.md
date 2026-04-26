@@ -4,6 +4,12 @@
 
 | الإضافة (Plugin) | المصدر / المطور | رابط الـ JSON / Manifest | صفحة المطور (GitHub) |
 | :--- | :--- | :--- | :--- |
+| **Tuktukcima** | 3rabi | [رابط الـ Repo](https://raw.githubusercontent.com/Abodabodd/re-3arabi/refs/heads/main/repo) | [Abodabodd](https://github.com/Abodabodd/re-3arabi) |
+| **WeCima** | 3rabi | [رابط الـ Repo](https://raw.githubusercontent.com/Abodabodd/re-3arabi/refs/heads/main/repo) | [Abodabodd](https://github.com/Abodabodd/re-3arabi) |
+| **Akwam** | 3rabi | [رابط الـ Repo](https://raw.githubusercontent.com/Abodabodd/re-3arabi/refs/heads/main/repo) | [Abodabodd](https://github.com/Abodabodd/re-3arabi) |
+| **Egydead** | 3rabi | [رابط الـ Repo](https://raw.githubusercontent.com/Abodabodd/re-3arabi/refs/heads/main/repo) | [Abodabodd](https://github.com/Abodabodd/re-3arabi) |
+| **TopCinema** | 3rabi | [رابط الـ Repo](https://raw.githubusercontent.com/Abodabodd/re-3arabi/refs/heads/main/repo) | [Abodabodd](https://github.com/Abodabodd/re-3arabi) |
+| **Arabseed** | 3rabi | [رابط الـ Repo](https://raw.githubusercontent.com/Abodabodd/re-3arabi/refs/heads/main/repo) | [Abodabodd](https://github.com/Abodabodd/re-3arabi) |
 | **FaselHD** | nvmindl | [رابط الـ Manifest](https://raw.githubusercontent.com/nvmindl/nuvio-providers/refs/heads/main/manifest.json) | [nvmindl](https://github.com/nvmindl/nuvio-providers) |
 | **NetMirror** | yoruix | [رابط الـ Manifest](https://raw.githubusercontent.com/yoruix/nuvio-providers/refs/heads/main/manifest.json) | [yoruix](https://github.com/yoruix/nuvio-providers) |
 | **CinemaCity** | yoruix | [رابط الـ Manifest](https://raw.githubusercontent.com/yoruix/nuvio-providers/refs/heads/main/manifest.json) | [yoruix](https://github.com/yoruix/nuvio-providers) |
@@ -11,21 +17,3 @@
 | **Kisskh** | D3adlyRocket | [رابط الـ Manifest](https://raw.githubusercontent.com/D3adlyRocket/All-in-One-Nuvio/refs/heads/main/manifest.json) | [D3adlyRocket](https://github.com/D3adlyRocket/All-in-One-Nuvio) |
 | **MovieBoxProvider** | phisher98 | [رابط الـ Repo](https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json) | [phisher98](https://github.com/phisher98/cloudstream-extensions-phisher) |
 | **MovieBoxProvider** | NivinCNC | [رابط الـ Repo](https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/CNC.json) | [NivinCNC](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension) |
-
-
-
-## قائمة الروابط المتاحة
-
-### 1. إضافات Nuvio
-* **FaselHD**
-  * `https://raw.githubusercontent.com/nvmindl/nuvio-providers/refs/heads/main/manifest.json`
-* **NetMirror** & **CinemaCity**
-  * `https://raw.githubusercontent.com/yoruix/nuvio-providers/refs/heads/main/manifest.json`
-* **Netmirror** & **Kisskh**
-  * `https://raw.githubusercontent.com/D3adlyRocket/All-in-One-Nuvio/refs/heads/main/manifest.json`
-
-### 2. إضافات CloudStream
-* **MovieBoxProvider (Phisher)**
-  * `https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json`
-* **MovieBoxProvider (CNCVerse)**
-  * `https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/CNC.json`
