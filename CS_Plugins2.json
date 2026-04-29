@@ -14,9 +14,9 @@
       "Movie"
     ],
     "version": 1,
-    "internalName": "Tuktukcima(3rabi)",
+    "internalName": "Tuktukcima",
     "url": "https://github.com/Abodabodd/re-3arabi/raw/refs/heads/main/build/TukTukcima.cs3",
-    "name": "Tuktukcima"
+    "name": "Tuktukcima(3rabi)"
   },
   {
     "iconUrl": "https://wecima.ac/static/img/favicon.png",
@@ -33,9 +33,9 @@
     "tvTypes"
     ],
     "version": 1,
-    "internalName": "WeCima(3rabi)",
+    "internalName": "WeCima",
     "url": "https://github.com/Abodabodd/re-3arabi/raw/refs/heads/main/build/Wecima.cs3",
-    "name": "WeCima"
+    "name": "WeCima(3rabi)"
   },
     {
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
@@ -52,9 +52,9 @@
       "Movie"
     ],
     "version": 3,
-    "internalName": "Akwam(3rabi)",
+    "internalName": "Akwam",
     "url": "https://github.com/Abodabodd/re-3arabi/raw/refs/heads/main/build/Akwam.cs3",
-    "name": "Akwam"
+    "name": "Akwam(3rabi)"
   },
   {
     "iconUrl": "https://a.egydead.space/wp-content/uploads/2019/01/cropped-yXYdE2f-192x192.png",
@@ -73,9 +73,9 @@
     "AsianDrama"
     ],
     "version": 1,
-    "internalName": "Egydead(3rabi)",
+    "internalName": "Egydead",
     "url": "https://github.com/Abodabodd/re-3arabi/raw/refs/heads/main/build/Egydead.cs3",
-    "name": "Egydead"
+    "name": "Egydead(3rabi)"
   },
   {
     "iconUrl": "https://web8.topcinema.cam/wp-content/uploads/2023/05/cropped-icon-32x32.png",
@@ -92,9 +92,9 @@
     "tvTypes"
     ],
     "version": 1,
-    "internalName": "TopCinema(3rabi)",
+    "internalName": "TopCinema",
     "url": "https://github.com/Abodabodd/re-3arabi/raw/refs/heads/main/build/Topcinema.cs3",
-    "name": "TopCinema"
+    "name": "TopCinema(3rabi)"
   },
     {
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjXYRCgXdHTs-hdcOKs1ooTW5plsBI7CWbsA&s",
@@ -111,8 +111,8 @@
       "Movie"
     ],
     "version": 1,
-    "internalName": "Arabseed(3rabi)",
+    "internalName": "Arabseed",
     "url": "https://github.com/Abodabodd/re-3arabi/raw/refs/heads/main/build/Arabseed.cs3",
-    "name": "Arabseed"
+    "name": "Arabseed(3rabi)"
   }
  ]
