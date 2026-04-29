@@ -31,7 +31,7 @@
     },
     {
       "id": "cinemacity",
-      "name": "CinemaCity",
+      "name": "CinemaCity (yoruix)",
       "description": "CinemaCity (Multi-Language)",
       "version": "1.0.0",
       "author": "Nuvio Team",
@@ -68,6 +68,19 @@
       "contentLanguage": ["ko", "ch", "ja", "th"],
       "enabled": true
     },
+    {
+      "id": "cinemacity",
+      "name": "CinemaCity (D3adlyRocket)",
+      "description": "Multi Language Provider",
+      "version": "1.0.0",
+      "author": "Nuvio Team",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "https://raw.githubusercontent.com/D3adlyRocket/All-in-One-Nuvio/refs/heads/main/providers/cinemacity.js",
+      "enabled": true,
+      "formats": ["mp4", "m3u8"],
+      "logo": "https://i.postimg.cc/XYjKhS3b/cinemacity.png",
+      "contentLanguage": ["en", "hi", "ar"]
+    },  
     {
       "id": "Cineby",
       "name": "Cineby (Nvmindl)",
