@@ -31,7 +31,7 @@
     },
     {
       "id": "cinemacity",
-      "name": "CinemaCity (yoruix)",
+      "name": "CinemaCity (Yoru)",
       "description": "CinemaCity (Multi-Language)",
       "version": "1.0.0",
       "author": "Nuvio Team",
@@ -44,7 +44,7 @@
     },
     {
       "id": "netmirror_d3adly",
-      "name": "Netmirror (D3adly)",
+      "name": "Netmirror (D3adlyRocket)",
       "description": "Streaming links from Netmirror (Netflix, Prime, Disney etc).",
       "version": "1.0.0",
       "author": "Sanchit (@S4NCHITT) — Murph's Streams",
@@ -57,7 +57,7 @@
     },
     {
       "id": "kisskh",
-      "name": "Kisskh",
+      "name": "Kisskh(D3adlyRocket)",
       "description": "Streams Korean dramas and movies from onlykdrama.top",
       "version": "1.0.0",
       "author": "Michat88",
